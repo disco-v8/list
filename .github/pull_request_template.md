@@ -149,6 +149,13 @@ Organization Website:
 Provide the website address of 
 the Org as a full URL i.e. https://example.com 
 -->
+https://www.mydns.jp/
+
+Hello. We provide the Dynamic DNS service for free of charge to any registered users worldwide since 2000.
+Using our service, anyone can register any hostname (subdomain) of their choice under any domain with associated IPv4 and IPv6 addresses.
+A certain user uses it for a web server. Another user uses it for VPN, various remote operations, and security.
+We offer several domain names, depending on the goals and preferences of our users.
+For example, we offer (1) mydns.jp, (2) pgw.jp, (3) wjg.jp, (4) 0am.jp, and others.
 
 Reason for PSL Inclusion
 ====
@@ -172,12 +179,26 @@ Three or more sentences here that describe the purpose for
 which your PR should be included in the PSL.  There is no 
 upper limit, but six paragraphs seems like a rational stop.
 -->
+All of the domains we are offering will be retained for a minimum of two years.
+However, for Japanese domains (.jp), due to the Japanese registrar system(JPRS), they will not expire for more than two years, even after checking with whois.
+Of course, since all of our domains are auto-renewed, this is not a problem.
+
+Our dynamic DNS service is designed to allow registration on a subdomain basis.
+This means that each website on a subdomain is independent.
+For security, cookies must be separated between independent sites.
+
+https://www.google.com/search?q=site%3Amydns.jp
+https://www.google.com/search?q=site%3Apgw.jp
+https://www.google.com/search?q=site%3Awjg.jp
 
 Number of users this request is being made to serve:
 <!--
 Identify if this is current or an estimate.
 -->
-
+site:mydns.jp	396,000 hosts.
+site:pgw.jp		10,600 hosts.
+site:wjg.jp		10,400 hosts.
+... on Feb 19, 2024.
 
 DNS Verification via dig
 =======
@@ -206,6 +227,7 @@ your entry to remain in the PSL, so that future (TBD)
 automation can remove entries where the record is not present.
 
 -->
+
 
 Results of Syntax Checker (`make test`)
 =========
