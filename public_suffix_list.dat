@@ -6742,7 +6742,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-02-21T15:17:09Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-03-02T15:14:13Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -8752,10 +8752,6 @@ kddi
 // https://www.iana.org/domains/root/db/kerryhotels.html
 kerryhotels
 
-// kerrylogistics : Kerry Trading Co. Limited
-// https://www.iana.org/domains/root/db/kerrylogistics.html
-kerrylogistics
-
 // kerryproperties : Kerry Trading Co. Limited
 // https://www.iana.org/domains/root/db/kerryproperties.html
 kerryproperties
@@ -8951,10 +8947,6 @@ lincoln
 // link : Nova Registry Ltd
 // https://www.iana.org/domains/root/db/link.html
 link
-
-// lipsy : Lipsy Ltd
-// https://www.iana.org/domains/root/db/lipsy.html
-lipsy
 
 // live : Dog Beach, LLC
 // https://www.iana.org/domains/root/db/live.html
@@ -11152,7 +11144,7 @@ yahoo
 // https://www.iana.org/domains/root/db/yamaxun.html
 yamaxun
 
-// yandex : ADC Tech Netherlands B.V.
+// yandex : YANDEX, LLC
 // https://www.iana.org/domains/root/db/yandex.html
 yandex
 
